@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "main": "package.json",
+  "author": "Devansh Varshney",
   "license": "UNLICENSED",
   "scripts": {
     "dev": "sanity dev",
